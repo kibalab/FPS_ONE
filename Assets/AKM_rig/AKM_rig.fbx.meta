@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: 060108fb3a7c3474c87dceb2ae2226cc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bolt
+    100004: Bolt_end
+    100006: broke's css
+    100008: Bullet
+    100010: Bullet_end
+    100012: camera_controller
+    100014: camera_controller_end
+    100016: camera_target
+    100018: camera_target_end
+    100020: Hands
+    100022: l_armtwist_1
+    100024: l_armtwist_2
+    100026: l_armtwist_2_end
+    100028: l_armtwist_3
+    100030: l_armtwist_3_end
+    100032: l_armtwist_4
+    100034: l_forearm
+    100036: l_IK
+    100038: l_IK_end
+    100040: l_index_low
+    100042: l_index_mid
+    100044: l_index_tip
+    100046: l_index_tip_end
+    100048: l_middle_low
+    100050: l_middle_mid
+    100052: l_middle_tip
+    100054: l_middle_tip_end
+    100056: l_pinky_low
+    100058: l_pinky_mid
+    100060: l_pinky_tip
+    100062: l_pinky_tip_end
+    100064: l_pole
+    100066: l_pole_end
+    100068: l_ring_low
+    100070: l_ring_mid
+    100072: l_ring_tip
+    100074: l_ring_tip_end
+    100076: l_thumb_low
+    100078: l_thumb_mid
+    100080: l_thumb_tip
+    100082: l_thumb_tip_end
+    100084: l_upperarm
+    100086: l_wrist
+    100088: Mag
+    100090: Mag_end
+    100092: r_armtwist_1
+    100094: r_armtwist_2
+    100096: r_armtwist_2_end
+    100098: r_armtwist_3
+    100100: r_armtwist_3_end
+    100102: r_armtwist_4
+    100104: r_armtwist_4_end
+    100106: r_forearm
+    100108: r_IK
+    100110: r_IK_end
+    100112: r_index_low
+    100114: r_index_mid
+    100116: r_index_tip
+    100118: r_index_tip_end
+    100120: r_middle_low
+    100122: r_middle_mid
+    100124: r_middle_tip
+    100126: r_middle_tip_end
+    100128: r_pinky_low
+    100130: r_pinky_mid
+    100132: r_pinky_tip
+    100134: r_pinky_tip_end
+    100136: r_pole
+    100138: r_pole_end
+    100140: r_ring_low
+    100142: r_ring_mid
+    100144: r_ring_tip
+    100146: r_ring_tip_end
+    100148: r_thumb_low
+    100150: r_thumb_mid
+    100152: r_thumb_tip
+    100154: r_thumb_tip_end
+    100156: r_upperarm
+    100158: r_wrist
+    100160: root
+    100162: SafetySwitch
+    100164: SafetySwitch_end
+    100166: Trigger
+    100168: Trigger_end
+    100170: watch
+    100172: watch_end
+    100174: Weapon
+    100176: WPN_AKM
+    400000: //RootNode
+    400002: Bolt
+    400004: Bolt_end
+    400006: broke's css
+    400008: Bullet
+    400010: Bullet_end
+    400012: camera_controller
+    400014: camera_controller_end
+    400016: camera_target
+    400018: camera_target_end
+    400020: Hands
+    400022: l_armtwist_1
+    400024: l_armtwist_2
+    400026: l_armtwist_2_end
+    400028: l_armtwist_3
+    400030: l_armtwist_3_end
+    400032: l_armtwist_4
+    400034: l_forearm
+    400036: l_IK
+    400038: l_IK_end
+    400040: l_index_low
+    400042: l_index_mid
+    400044: l_index_tip
+    400046: l_index_tip_end
+    400048: l_middle_low
+    400050: l_middle_mid
+    400052: l_middle_tip
+    400054: l_middle_tip_end
+    400056: l_pinky_low
+    400058: l_pinky_mid
+    400060: l_pinky_tip
+    400062: l_pinky_tip_end
+    400064: l_pole
+    400066: l_pole_end
+    400068: l_ring_low
+    400070: l_ring_mid
+    400072: l_ring_tip
+    400074: l_ring_tip_end
+    400076: l_thumb_low
+    400078: l_thumb_mid
+    400080: l_thumb_tip
+    400082: l_thumb_tip_end
+    400084: l_upperarm
+    400086: l_wrist
+    400088: Mag
+    400090: Mag_end
+    400092: r_armtwist_1
+    400094: r_armtwist_2
+    400096: r_armtwist_2_end
+    400098: r_armtwist_3
+    400100: r_armtwist_3_end
+    400102: r_armtwist_4
+    400104: r_armtwist_4_end
+    400106: r_forearm
+    400108: r_IK
+    400110: r_IK_end
+    400112: r_index_low
+    400114: r_index_mid
+    400116: r_index_tip
+    400118: r_index_tip_end
+    400120: r_middle_low
+    400122: r_middle_mid
+    400124: r_middle_tip
+    400126: r_middle_tip_end
+    400128: r_pinky_low
+    400130: r_pinky_mid
+    400132: r_pinky_tip
+    400134: r_pinky_tip_end
+    400136: r_pole
+    400138: r_pole_end
+    400140: r_ring_low
+    400142: r_ring_mid
+    400144: r_ring_tip
+    400146: r_ring_tip_end
+    400148: r_thumb_low
+    400150: r_thumb_mid
+    400152: r_thumb_tip
+    400154: r_thumb_tip_end
+    400156: r_upperarm
+    400158: r_wrist
+    400160: root
+    400162: SafetySwitch
+    400164: SafetySwitch_end
+    400166: Trigger
+    400168: Trigger_end
+    400170: watch
+    400172: watch_end
+    400174: Weapon
+    400176: WPN_AKM
+    4300000: broke's css
+    4300002: WPN_AKM
+    7400000: Hands|fire
+    7400002: Hands|idle
+    7400004: Hands|reload
+    7400006: Hands|run
+    7400008: Hands|draw
+    7400010: Hands|run_start
+    9500000: //RootNode
+    13700000: broke's css
+    13700002: WPN_AKM
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WPNM_AKM
+    second: {fileID: 2100000, guid: 53e459d52b60b2d459a8972d907d8416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WPNM_calibers
+    second: {fileID: 2100000, guid: d7d0d86fc22195848af50eacc8e08905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t_phoenix
+    second: {fileID: 2100000, guid: fe9d9e9927afc144d88cfc395bc0fcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v_hands
+    second: {fileID: 2100000, guid: b89710d3f406ff74084f55c113377aed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hands|fire
+      takeName: Hands|fire
+      firstFrame: 0
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: broke's css
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Hands/Bullet
+        weight: 1
+      - path: Hands/Bullet/Bullet_end
+        weight: 1
+      - path: Hands/l_IK
+        weight: 1
+      - path: Hands/l_IK/l_IK_end
+        weight: 1
+      - path: Hands/l_upperarm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2/l_armtwist_2_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3/l_armtwist_3_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch/watch_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip/l_index_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip/l_middle_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip/l_pinky_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip/l_ring_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip/l_thumb_tip_end
+        weight: 1
+      - path: Hands/Mag
+        weight: 1
+      - path: Hands/Mag/Mag_end
+        weight: 1
+      - path: Hands/r_IK
+        weight: 1
+      - path: Hands/r_IK/r_IK_end
+        weight: 1
+      - path: Hands/r_upperarm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2/r_armtwist_2_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3/r_armtwist_3_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4/r_armtwist_4_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip/r_index_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip/r_middle_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip/r_pinky_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip/r_ring_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip/r_thumb_tip_end
+        weight: 1
+      - path: Hands/root
+        weight: 1
+      - path: Hands/root/camera_controller
+        weight: 1
+      - path: Hands/root/camera_controller/camera_controller_end
+        weight: 1
+      - path: Hands/root/camera_target
+        weight: 1
+      - path: Hands/root/camera_target/camera_target_end
+        weight: 1
+      - path: Hands/root/l_pole
+        weight: 1
+      - path: Hands/root/l_pole/l_pole_end
+        weight: 1
+      - path: Hands/root/r_pole
+        weight: 1
+      - path: Hands/root/r_pole/r_pole_end
+        weight: 1
+      - path: Hands/Weapon
+        weight: 1
+      - path: Hands/Weapon/Bolt
+        weight: 1
+      - path: Hands/Weapon/Bolt/Bolt_end
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch/SafetySwitch_end
+        weight: 1
+      - path: Hands/Weapon/Trigger
+        weight: 1
+      - path: Hands/Weapon/Trigger/Trigger_end
+        weight: 1
+      - path: WPN_AKM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hands|idle
+      takeName: Hands|idle
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: broke's css
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Hands/Bullet
+        weight: 1
+      - path: Hands/Bullet/Bullet_end
+        weight: 1
+      - path: Hands/l_IK
+        weight: 1
+      - path: Hands/l_IK/l_IK_end
+        weight: 1
+      - path: Hands/l_upperarm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2/l_armtwist_2_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3/l_armtwist_3_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch/watch_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip/l_index_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip/l_middle_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip/l_pinky_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip/l_ring_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip/l_thumb_tip_end
+        weight: 1
+      - path: Hands/Mag
+        weight: 1
+      - path: Hands/Mag/Mag_end
+        weight: 1
+      - path: Hands/r_IK
+        weight: 1
+      - path: Hands/r_IK/r_IK_end
+        weight: 1
+      - path: Hands/r_upperarm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2/r_armtwist_2_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3/r_armtwist_3_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4/r_armtwist_4_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip/r_index_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip/r_middle_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip/r_pinky_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip/r_ring_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip/r_thumb_tip_end
+        weight: 1
+      - path: Hands/root
+        weight: 1
+      - path: Hands/root/camera_controller
+        weight: 1
+      - path: Hands/root/camera_controller/camera_controller_end
+        weight: 1
+      - path: Hands/root/camera_target
+        weight: 1
+      - path: Hands/root/camera_target/camera_target_end
+        weight: 1
+      - path: Hands/root/l_pole
+        weight: 1
+      - path: Hands/root/l_pole/l_pole_end
+        weight: 1
+      - path: Hands/root/r_pole
+        weight: 1
+      - path: Hands/root/r_pole/r_pole_end
+        weight: 1
+      - path: Hands/Weapon
+        weight: 1
+      - path: Hands/Weapon/Bolt
+        weight: 1
+      - path: Hands/Weapon/Bolt/Bolt_end
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch/SafetySwitch_end
+        weight: 1
+      - path: Hands/Weapon/Trigger
+        weight: 1
+      - path: Hands/Weapon/Trigger/Trigger_end
+        weight: 1
+      - path: WPN_AKM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hands|reload
+      takeName: Hands|reload
+      firstFrame: 0
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: broke's css
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Hands/Bullet
+        weight: 1
+      - path: Hands/Bullet/Bullet_end
+        weight: 1
+      - path: Hands/l_IK
+        weight: 1
+      - path: Hands/l_IK/l_IK_end
+        weight: 1
+      - path: Hands/l_upperarm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2/l_armtwist_2_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3/l_armtwist_3_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch/watch_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip/l_index_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip/l_middle_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip/l_pinky_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip/l_ring_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip/l_thumb_tip_end
+        weight: 1
+      - path: Hands/Mag
+        weight: 1
+      - path: Hands/Mag/Mag_end
+        weight: 1
+      - path: Hands/r_IK
+        weight: 1
+      - path: Hands/r_IK/r_IK_end
+        weight: 1
+      - path: Hands/r_upperarm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2/r_armtwist_2_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3/r_armtwist_3_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4/r_armtwist_4_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip/r_index_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip/r_middle_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip/r_pinky_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip/r_ring_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip/r_thumb_tip_end
+        weight: 1
+      - path: Hands/root
+        weight: 1
+      - path: Hands/root/camera_controller
+        weight: 1
+      - path: Hands/root/camera_controller/camera_controller_end
+        weight: 1
+      - path: Hands/root/camera_target
+        weight: 1
+      - path: Hands/root/camera_target/camera_target_end
+        weight: 1
+      - path: Hands/root/l_pole
+        weight: 1
+      - path: Hands/root/l_pole/l_pole_end
+        weight: 1
+      - path: Hands/root/r_pole
+        weight: 1
+      - path: Hands/root/r_pole/r_pole_end
+        weight: 1
+      - path: Hands/Weapon
+        weight: 1
+      - path: Hands/Weapon/Bolt
+        weight: 1
+      - path: Hands/Weapon/Bolt/Bolt_end
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch/SafetySwitch_end
+        weight: 1
+      - path: Hands/Weapon/Trigger
+        weight: 1
+      - path: Hands/Weapon/Trigger/Trigger_end
+        weight: 1
+      - path: WPN_AKM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hands|run
+      takeName: Hands|run
+      firstFrame: 9
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: broke's css
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Hands/Bullet
+        weight: 1
+      - path: Hands/Bullet/Bullet_end
+        weight: 1
+      - path: Hands/l_IK
+        weight: 1
+      - path: Hands/l_IK/l_IK_end
+        weight: 1
+      - path: Hands/l_upperarm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2/l_armtwist_2_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3/l_armtwist_3_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch/watch_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip/l_index_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip/l_middle_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip/l_pinky_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip/l_ring_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip/l_thumb_tip_end
+        weight: 1
+      - path: Hands/Mag
+        weight: 1
+      - path: Hands/Mag/Mag_end
+        weight: 1
+      - path: Hands/r_IK
+        weight: 1
+      - path: Hands/r_IK/r_IK_end
+        weight: 1
+      - path: Hands/r_upperarm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2/r_armtwist_2_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3/r_armtwist_3_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4/r_armtwist_4_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip/r_index_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip/r_middle_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip/r_pinky_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip/r_ring_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip/r_thumb_tip_end
+        weight: 1
+      - path: Hands/root
+        weight: 1
+      - path: Hands/root/camera_controller
+        weight: 1
+      - path: Hands/root/camera_controller/camera_controller_end
+        weight: 1
+      - path: Hands/root/camera_target
+        weight: 1
+      - path: Hands/root/camera_target/camera_target_end
+        weight: 1
+      - path: Hands/root/l_pole
+        weight: 1
+      - path: Hands/root/l_pole/l_pole_end
+        weight: 1
+      - path: Hands/root/r_pole
+        weight: 1
+      - path: Hands/root/r_pole/r_pole_end
+        weight: 1
+      - path: Hands/Weapon
+        weight: 1
+      - path: Hands/Weapon/Bolt
+        weight: 1
+      - path: Hands/Weapon/Bolt/Bolt_end
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch/SafetySwitch_end
+        weight: 1
+      - path: Hands/Weapon/Trigger
+        weight: 1
+      - path: Hands/Weapon/Trigger/Trigger_end
+        weight: 1
+      - path: WPN_AKM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hands|draw
+      takeName: Hands|draw
+      firstFrame: 0
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: broke's css
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Hands/Bullet
+        weight: 1
+      - path: Hands/Bullet/Bullet_end
+        weight: 1
+      - path: Hands/l_IK
+        weight: 1
+      - path: Hands/l_IK/l_IK_end
+        weight: 1
+      - path: Hands/l_upperarm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2/l_armtwist_2_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3/l_armtwist_3_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch/watch_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip/l_index_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip/l_middle_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip/l_pinky_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip/l_ring_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip/l_thumb_tip_end
+        weight: 1
+      - path: Hands/Mag
+        weight: 1
+      - path: Hands/Mag/Mag_end
+        weight: 1
+      - path: Hands/r_IK
+        weight: 1
+      - path: Hands/r_IK/r_IK_end
+        weight: 1
+      - path: Hands/r_upperarm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2/r_armtwist_2_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3/r_armtwist_3_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4/r_armtwist_4_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip/r_index_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip/r_middle_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip/r_pinky_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip/r_ring_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip/r_thumb_tip_end
+        weight: 1
+      - path: Hands/root
+        weight: 1
+      - path: Hands/root/camera_controller
+        weight: 1
+      - path: Hands/root/camera_controller/camera_controller_end
+        weight: 1
+      - path: Hands/root/camera_target
+        weight: 1
+      - path: Hands/root/camera_target/camera_target_end
+        weight: 1
+      - path: Hands/root/l_pole
+        weight: 1
+      - path: Hands/root/l_pole/l_pole_end
+        weight: 1
+      - path: Hands/root/r_pole
+        weight: 1
+      - path: Hands/root/r_pole/r_pole_end
+        weight: 1
+      - path: Hands/Weapon
+        weight: 1
+      - path: Hands/Weapon/Bolt
+        weight: 1
+      - path: Hands/Weapon/Bolt/Bolt_end
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch/SafetySwitch_end
+        weight: 1
+      - path: Hands/Weapon/Trigger
+        weight: 1
+      - path: Hands/Weapon/Trigger/Trigger_end
+        weight: 1
+      - path: WPN_AKM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hands|run_start
+      takeName: Hands|run
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: broke's css
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Hands/Bullet
+        weight: 1
+      - path: Hands/Bullet/Bullet_end
+        weight: 1
+      - path: Hands/l_IK
+        weight: 1
+      - path: Hands/l_IK/l_IK_end
+        weight: 1
+      - path: Hands/l_upperarm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_2/l_armtwist_2_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_3/l_armtwist_3_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_armtwist_1/l_armtwist_4/watch/watch_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_index_low/l_index_mid/l_index_tip/l_index_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_middle_low/l_middle_mid/l_middle_tip/l_middle_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_pinky_low/l_pinky_mid/l_pinky_tip/l_pinky_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_ring_low/l_ring_mid/l_ring_tip/l_ring_tip_end
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip
+        weight: 1
+      - path: Hands/l_upperarm/l_forearm/l_wrist/l_thumb_low/l_thumb_mid/l_thumb_tip/l_thumb_tip_end
+        weight: 1
+      - path: Hands/Mag
+        weight: 1
+      - path: Hands/Mag/Mag_end
+        weight: 1
+      - path: Hands/r_IK
+        weight: 1
+      - path: Hands/r_IK/r_IK_end
+        weight: 1
+      - path: Hands/r_upperarm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_2/r_armtwist_2_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_3/r_armtwist_3_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_armtwist_1/r_armtwist_4/r_armtwist_4_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_index_low/r_index_mid/r_index_tip/r_index_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_middle_low/r_middle_mid/r_middle_tip/r_middle_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_pinky_low/r_pinky_mid/r_pinky_tip/r_pinky_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_ring_low/r_ring_mid/r_ring_tip/r_ring_tip_end
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip
+        weight: 1
+      - path: Hands/r_upperarm/r_forearm/r_wrist/r_thumb_low/r_thumb_mid/r_thumb_tip/r_thumb_tip_end
+        weight: 1
+      - path: Hands/root
+        weight: 1
+      - path: Hands/root/camera_controller
+        weight: 1
+      - path: Hands/root/camera_controller/camera_controller_end
+        weight: 1
+      - path: Hands/root/camera_target
+        weight: 1
+      - path: Hands/root/camera_target/camera_target_end
+        weight: 1
+      - path: Hands/root/l_pole
+        weight: 1
+      - path: Hands/root/l_pole/l_pole_end
+        weight: 1
+      - path: Hands/root/r_pole
+        weight: 1
+      - path: Hands/root/r_pole/r_pole_end
+        weight: 1
+      - path: Hands/Weapon
+        weight: 1
+      - path: Hands/Weapon/Bolt
+        weight: 1
+      - path: Hands/Weapon/Bolt/Bolt_end
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch
+        weight: 1
+      - path: Hands/Weapon/SafetySwitch/SafetySwitch_end
+        weight: 1
+      - path: Hands/Weapon/Trigger
+        weight: 1
+      - path: Hands/Weapon/Trigger/Trigger_end
+        weight: 1
+      - path: WPN_AKM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

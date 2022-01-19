@@ -1,0 +1,10 @@
+E:\Unity\FPS1\Server2\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+E:\Unity\FPS1\Server2\Server2\obj\Debug\Server2.Properties.Resources.resources
+E:\Unity\FPS1\Server2\Server2\obj\Debug\Server2.csproj.GenerateResource.cache
+E:\Unity\FPS1\Server2\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+E:\Unity\FPS1\Server2\Server2\bin\Debug\Server2.exe.config
+E:\Unity\FPS1\Server2\Server2\bin\Debug\Server2.exe
+E:\Unity\FPS1\Server2\Server2\bin\Debug\Server2.pdb
+E:\Unity\FPS1\Server2\Server2\obj\Debug\Server2.exe
+E:\Unity\FPS1\Server2\Server2\obj\Debug\Server2.pdb
+E:\Unity\FPS1\Server2\Server2\obj\Debug\Server2.Form1.resources

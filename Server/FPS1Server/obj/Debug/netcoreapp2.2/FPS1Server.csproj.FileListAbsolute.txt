@@ -1,0 +1,11 @@
+E:\Unity\FPS1\Server\FPS1Server\obj\Debug\netcoreapp2.2\FPS1Server.csprojAssemblyReference.cache
+E:\Unity\FPS1\Server\FPS1Server\obj\Debug\netcoreapp2.2\FPS1Server.csproj.CoreCompileInputs.cache
+E:\Unity\FPS1\Server\FPS1Server\obj\Debug\netcoreapp2.2\FPS1Server.AssemblyInfoInputs.cache
+E:\Unity\FPS1\Server\FPS1Server\obj\Debug\netcoreapp2.2\FPS1Server.AssemblyInfo.cs
+E:\Unity\FPS1\Server\FPS1Server\bin\Debug\netcoreapp2.2\FPS1Server.deps.json
+E:\Unity\FPS1\Server\FPS1Server\bin\Debug\netcoreapp2.2\FPS1Server.runtimeconfig.json
+E:\Unity\FPS1\Server\FPS1Server\bin\Debug\netcoreapp2.2\FPS1Server.runtimeconfig.dev.json
+E:\Unity\FPS1\Server\FPS1Server\bin\Debug\netcoreapp2.2\FPS1Server.dll
+E:\Unity\FPS1\Server\FPS1Server\bin\Debug\netcoreapp2.2\FPS1Server.pdb
+E:\Unity\FPS1\Server\FPS1Server\obj\Debug\netcoreapp2.2\FPS1Server.dll
+E:\Unity\FPS1\Server\FPS1Server\obj\Debug\netcoreapp2.2\FPS1Server.pdb
